@@ -1,0 +1,10 @@
+.shell {
+    padding: 20px;
+    margin: 50px;
+}
+
+.prompt {
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.3s;
+}
